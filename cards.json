@@ -1,0 +1,191 @@
+{
+  "plates": [
+    {
+      "id": 9024465,
+      "plate": "01 K 544 YC",
+      "startPrice": "2 250 000,00",
+      "currentPrice": "Не подано",
+      "endDate": "02.07.2025 - 10:02:00",
+      "region": "г.Ташкент",
+      "type": "expire_today",
+      "department": "Тошкент шахар ИИБ ЙХХБ Юнусобод РЎ ва ИО бўлими",
+      "ownerType": "ФЛ"
+    },
+    {
+      "id": 9017577,
+      "plate": "01 W 311 YC",
+      "startPrice": "2 250 000,00",
+      "currentPrice": "Не подано",
+      "endDate": "02.07.2025 - 10:02:00",
+      "region": "г.Ташкент",
+      "type": "custom",
+      "department": "Тошкент шахар ИИБ ЙХХБ Файзиобод РЎ ва ИО бўлими",
+      "ownerType": "ФЛ"
+    },
+    {
+      "id": 9023039,
+      "plate": "01 D 040 ZC",
+      "startPrice": "3 750 000,00",
+      "currentPrice": "3 787 500,00",
+      "endDate": "02.07.2025 - 10:03:00",
+      "region": "г.Ташкент",
+      "type": "special_offer",
+      "department": "Тошкент шахар ИИБ ЙХХБ Сирғали РЎ ва ИО бўлими",
+      "ownerType": "ФЛ"
+    },
+    {
+      "id": 9033326,
+      "plate": "01 V 075 YC",
+      "startPrice": "2 250 000,00",
+      "currentPrice": "Не подано",
+      "endDate": "02.07.2025 - 10:04:00",
+      "region": "г.Ташкент",
+      "type": "custom",
+      "department": "Тошкент шахар ИИБ ЙХХБ Юнусобод РЎ ва ИО бўлими",
+      "ownerType": "ФЛ"
+    },
+    {
+      "id": 9034451,
+      "plate": "01 Z 999 XA",
+      "startPrice": "5 000 000,00",
+      "currentPrice": "5 300 000,00",
+      "endDate": "02.07.2025 - 10:05:00",
+      "region": "г.Ташкент",
+      "type": "expire_today",
+      "department": "Тошкент шахар ИИБ ЙХХБ INDEX MANAGEMENT SERVICE ИО бўлими",
+      "ownerType": "ФЛ"
+    },
+    {
+      "id": 9035562,
+      "plate": "01 B 123 AB",
+      "startPrice": "1 750 000,00",
+      "currentPrice": "1 900 000,00",
+      "endDate": "02.07.2025 - 10:06:00",
+      "region": "г.Ташкент",
+      "type": "special_offer",
+      "department": "Тошкент шахар ИИБ ЙХХБ Юнусобод РЎ ва ИО бўлими",
+      "ownerType": "ФЛ"
+    },
+    {
+      "id": 9036673,
+      "plate": "01 T 789 BC",
+      "startPrice": "2 900 000,00",
+      "currentPrice": "Не подано",
+      "endDate": "02.07.2025 - 10:07:00",
+      "region": "г.Ташкент",
+      "type": "custom",
+      "department": "Тошкент шахар ИИБ ЙХХБ Файзиобод РЎ ва ИО бўлими",
+      "ownerType": "ФЛ"
+    },
+    {
+      "id": 9037784,
+      "plate": "01 X 001 XY",
+      "startPrice": "3 100 000,00",
+      "currentPrice": "3 250 000,00",
+      "endDate": "02.07.2025 - 10:08:00",
+      "region": "г.Ташкент",
+      "type": "expire_today",
+      "department": "Тошкент шахар ИИБ ЙХХБ Сирғали РЎ ва ИО бўлими",
+      "ownerType": "ФЛ"
+    },
+    {
+      "id": 9038685,
+      "plate": "01 G 207 JB",
+      "startPrice": "2 250 000,00",
+      "currentPrice": "3 090 000,00",
+      "endDate": "17.07.2025 - 10:08:00",
+      "region": "г.Ташкент",
+      "type": "custom",
+      "department": "Тошкент шахар ИИБ ЙХХБ Файзиобод РЎ",
+      "ownerType": "ФЛ"
+    },
+    {
+      "id": 9039786,
+      "plate": "01 H 123 AB",
+      "startPrice": "1 500 000,00",
+      "currentPrice": "1 600 000,00",
+      "endDate": "17.07.2025 - 10:09:00",
+      "region": "г.Ташкент",
+      "type": "special_offer",
+      "department": "Тошкент шахар ИИБ ЙХХБ Юнусобод РЎ ва ИО бўлими",
+      "ownerType": "ФЛ"
+    },
+    {
+      "id": 9040897,
+      "plate": "01 J 456 CD",
+      "startPrice": "2 000 000,00",
+      "currentPrice": "2 100 000,00",
+      "endDate": "17.07.2025 - 10:10:00",
+      "region": "г.Ташкент",
+      "type": "expire_today",
+      "department": "Тошкент шахар ИИБ ЙХХБ Сирғали РЎ ва ИО бўлими",
+      "ownerType": "ФЛ"
+    },
+    {
+      "id": 9042008,
+      "plate": "01 K 789 EF",
+      "startPrice": "3 500 000,00",
+      "currentPrice": "3 600 000,00",
+      "endDate": "17.07.2025 - 10:11:00",
+      "region": "г.Ташкент",
+      "type": "custom",
+      "department": "Тошкент шахар ИИБ ЙХХБ Файзиобод РЎ ва ИО бўлими",
+      "ownerType": "ФЛ"
+    },
+    {
+      "id": 9043119,
+      "plate": "01 L 012 GH",
+      "startPrice": "4 000 000,00",
+      "currentPrice": "4 100 000,00",
+      "endDate": "17.07.2025 - 10:12:00",
+      "region": "г.Ташкент",
+      "type": "special_offer",
+      "department": "Тошкент шахар ИИБ ЙХХБ Юнусобод РЎ ва ИО бўлими",
+      "ownerType": "ФЛ"
+    },
+    {
+      "id": 9044230,
+      "plate": "01 M 345 IJ",
+      "startPrice": "2 750 000,00",
+      "currentPrice": "2 850 000,00",
+      "endDate": "17.07.2025 - 10:13:00",
+      "region": "г.Ташкент",
+      "type": "expire_today",
+      "department": "Тошкент шахар ИИБ ЙХХБ Файзиобод РЎ",
+      "ownerType": "ФЛ"
+    },
+    {
+      "id": 9045341,
+      "plate": "01 N 678 KL",
+      "startPrice": "3 200 000,00",
+      "currentPrice": "3 300 000,00",
+      "endDate": "17.07.2025 - 10:14:00",
+      "region": "г.Ташкент",
+      "type": "custom",
+      "department": "Тошкент шахар ИИБ ЙХХБ Юнусобод РЎ ва ИО бўлими",
+      "ownerType": "ФЛ"
+    },
+    {
+      "id": 9046452,
+      "plate": "01 O 901 MN",
+      "startPrice": "1 800 000,00",
+      "currentPrice": "1 900 000,00",
+      "endDate": "17.07.2025 - 10:15:00",
+      "region": "г.Ташкент",
+      "type": "special_offer",
+      "department": "Тошкент шахар ИИБ ЙХХБ Файзиобод РЎ",
+      "ownerType": "ФЛ"
+    },
+    {
+      "id": 9054385,
+      "plate": "01 M 467 ND",
+      "startPrice": "1 500 000,00",
+      "currentPrice": "1 700 000,00",
+      "endDate": "19.07.2025 - 10:01:00",
+      "region": "г.Ташкент",
+      "type": "custom",
+      "department": "Тошкент шахар ИИБ ЙХХБ INDEX MANAGEMENT SERVICE ИО бўлими",
+      "ownerType": "ФЛ"
+    }
+  ]
+}
